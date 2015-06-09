@@ -1,0 +1,19 @@
+{
+  "name": "flexslider-polymer",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Os <fastex93@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.2",
+    "flexslider": "~2.5.0"
+  }
+}
