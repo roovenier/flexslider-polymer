@@ -28,7 +28,7 @@ $ bower install flexslider-polymer
 </flexslider-polymer>
 ```
 
-### Attributes
+### Options
 
 You can use all available options like in original FlexSlider. Just add attrubute in `<flexslider-polymer>` element:
 
