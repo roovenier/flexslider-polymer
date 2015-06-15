@@ -8,25 +8,25 @@ Flexslider realisation on Polymer project
 
 1. Install with [Bower](http://bower.io):
 
-```bash
-$ bower install flexslider-polymer
-```
+	```bash
+	$ bower install flexslider-polymer
+	```
 
 2. Import component in your HTML <head> section:
 
-```html
-<link rel="import" href="bower_components/flexslider-polymer/flexslider-polymer.html">
-```
+	```html
+	<link rel="import" href="bower_components/flexslider-polymer/flexslider-polymer.html">
+	```
 
 3. Use the component on the page:
 
-```html
-<flexslider-polymer width="600px" height="350px" slideshow="false">
-	<img src="assets/slide1.jpg">
-	<img src="assets/slide2.jpg">
-	<img src="assets/slide3.jpg">
-</flexslider-polymer>
-```
+	```html
+	<flexslider-polymer width="600px" height="350px" slideshow="false">
+		<img src="assets/slide1.jpg">
+		<img src="assets/slide2.jpg">
+		<img src="assets/slide3.jpg">
+	</flexslider-polymer>
+	```
 
 ### Options
 
