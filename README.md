@@ -4,13 +4,7 @@ Flexslider realisation for Polymer project.
 
 ## Install & Usage:
 
-1. Install with npm:
-
-	```bash
-	$ npm install flexslider-polymer
-	```
-
-	...or install with Bower:
+1. Install with Bower:
 
 	```bash
 	$ bower install flexslider-polymer
@@ -19,7 +13,7 @@ Flexslider realisation for Polymer project.
 2. Import component in your HTML <head> section:
 
 	```html
-	<link rel="import" href="node_modules/flexslider-polymer/flexslider-polymer.html">
+	<link rel="import" href="bower_components/flexslider-polymer/flexslider-polymer.html">
 	```
 
 3. Use the component on the page:

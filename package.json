@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/roovenier/flexslider-polymer.git"
   },
-  "main": "flexslider-polymer.html",
   "author": "Alex Oshchepkov <fastex93@gmail.com> (http://github.com/roovenier)",
   "license": "MIT",
   "homepage": "https://github.com/roovenier/flexslider-polymer",
