@@ -1,0 +1,25 @@
+{
+  "name": "flexslider-polymer",
+  "version": "0.0.1",
+  "description": "Flexslider realisation for Polymer project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roovenier/flexslider-polymer.git"
+  },
+  "main": "flexslider-polymer.html",
+  "author": "Alex Oshchepkov <fastex93@gmail.com> (http://github.com/roovenier)",
+  "license": "MIT",
+  "homepage": "https://github.com/roovenier/flexslider-polymer",
+  "scripts": {
+    "start": "static"
+  },
+  "keywords": [
+    "flexslider",
+    "flexslider polymer",
+    "polymer",
+    "polymer slider"
+  ],
+  "devDependencies": {
+    "node-static": "^0.7.7"
+  }
+}

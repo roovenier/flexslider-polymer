@@ -1,4 +1,5 @@
 var sliderProps = {};
+
 Polymer({
 	is: 'flexslider-polymer',
 	ready: function() {
@@ -53,7 +54,7 @@ Polymer({
 	}
 });
 
-$(window).load(function() {
+window.onload = function() {
 	$('.flexslider').flexslider({
 		namespace: sliderProps.namespace,
 		selector: sliderProps.selector,
@@ -104,4 +105,4 @@ $(window).load(function() {
 		maxItems: sliderProps.maxItems,
 		move: sliderProps.move,
 	}).css({width: sliderProps.width, height: sliderProps.height});
-});
+};

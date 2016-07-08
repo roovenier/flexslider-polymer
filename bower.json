@@ -1,8 +1,18 @@
 {
   "name": "flexslider-polymer",
-  "version": "0.0.0",
+  "description": "Flexslider realisation for Polymer project",
+  "main": [
+    "flexslider-polymer.html"
+  ],
+  "version": "0.0.1",
   "authors": [
-    "Alex Os <fastex93@gmail.com>"
+    "Alex Oshchepkov <fastex93@gmail.com>"
+  ],
+  "keywords": [
+    "flexslider",
+    "flexslider polymer",
+    "polymer",
+    "polymer slider"
   ],
   "license": "MIT",
   "ignore": [
@@ -13,7 +23,8 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~1.0.2",
-    "flexslider": "~2.5.0"
+    "polymer": "~1.6.0",
+    "flexslider": "~2.6.1",
+    "jquery": "~3.1.0"
   }
 }
