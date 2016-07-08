@@ -10,9 +10,11 @@ Flexslider realisation for Polymer project.
 	$ bower install flexslider-polymer
 	```
 
-2. Import component in your HTML <head> section:
+2. Include following code in your HTML <head> section:
 
 	```html
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
 	<link rel="import" href="bower_components/flexslider-polymer/flexslider-polymer.html">
 	```
 
@@ -35,3 +37,19 @@ You can use all available options like in original FlexSlider. Just add attrubut
 ```
 
 [List of FlexSlider properties](https://github.com/woothemes/FlexSlider/wiki/FlexSlider-Properties)
+
+### Demo
+
+1. Clone this repo:
+
+	```bash
+	$ git clone https://github.com/roovenier/flexslider-polymer.git && cd flexslider-polymer
+	```
+
+2. Install dependencies and start server:
+
+	```bash
+	$ bower install && npm install && npm start
+	```
+
+3. Open <code>http://localhost:8080</code> in browser
